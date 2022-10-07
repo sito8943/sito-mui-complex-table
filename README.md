@@ -50,7 +50,7 @@ function App() {
 You can add your css rules, like `sx` prop for [styled-component](https://emotion.sh/docs/introduction), `style` prop like inline css styles and classNames from your css files
 
 ```
-import SitoMUITabView from "sito-mui-complex-table";
+import SitoMUIComplexTable from "sito-mui-complex-table";
 
 function App() {
     return {
